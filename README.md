@@ -36,4 +36,9 @@ Projede, ticari otomasyon ihtiyaçlarını karşılamak üzere C# programlama di
 ---
 
 ## Projenin Bazı Görselleri
-
+![adminPaneli](https://github.com/beyzakuru/DevExpress-ile-SQL-Tabanli-Ticari-Otomasyon/assets/88837400/4a1735da-7371-4f8c-8cc9-6527b14f7db3)
+![anasayfa](https://github.com/beyzakuru/DevExpress-ile-SQL-Tabanli-Ticari-Otomasyon/assets/88837400/239daf86-10ee-455b-ac4f-a5584f2964b2)
+![stoklar](https://github.com/beyzakuru/DevExpress-ile-SQL-Tabanli-Ticari-Otomasyon/assets/88837400/09bc53d2-82ad-4376-8866-50be433b3b07)
+![musteriler](https://github.com/beyzakuru/DevExpress-ile-SQL-Tabanli-Ticari-Otomasyon/assets/88837400/3c3198a5-ad31-46ac-b965-da3863f4459c)
+![raporlar](https://github.com/beyzakuru/DevExpress-ile-SQL-Tabanli-Ticari-Otomasyon/assets/88837400/30e11e19-f73a-4627-b76f-2db08f951ef3)
+![ayarlar](https://github.com/beyzakuru/DevExpress-ile-SQL-Tabanli-Ticari-Otomasyon/assets/88837400/45b865e9-f645-4f7e-8891-9d117a3bb9d2)
