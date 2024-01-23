@@ -4,6 +4,8 @@ Murat Yücedağ tarafından Udemy platformu üzerinde paylaşılan C# ile DevExp
 Bu proje, Udemy üzerinde Murat Yücedağ tarafından paylaşılan "C# ile DevExpress'te SQL Tabanlı Ticari Otomasyon" kursu temel alınarak geliştirilmiştir.
 Projede, ticari otomasyon ihtiyaçlarını karşılamak üzere C# programlama dili, DevExpress araçları ve Microsoft SQL Server veritabanı kullanılmıştır.
 
+---
+
 ## Proje İçeriğinde Yer Alan Modüller ve İçerdiği Bileşenler
 
 - Admin Paneli --> Masaüstü uygulamasına girebilmek için kullanıcı adı ve şifrenin istendiği modüldür.
@@ -21,3 +23,17 @@ Projede, ticari otomasyon ihtiyaçlarını karşılamak üzere C# programlama di
 - Hareketler --> Hareket bilgilerinin yer aldığı tablo ve crud işlemleir için panel içerir.
 - Raporlar --> Müşteri, firma, gider ve personel rapor bilgilerini içerir.
 - Ayarlar --> Yeni kullanıcı girişi ekleme ve güncelleme modüldür.
+
+---
+
+## Projede Kullanılan Teknolojiler
+
+1. C#
+2. DevExpress
+3. Microsoft SQL Server
+4. ADO.NET
+
+---
+
+## Projenin Bazı Görselleri
+
